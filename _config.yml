@@ -1,0 +1,28 @@
+name: Dolly
+favicon: null
+layout_spectrum: 0.7531530158594251
+typography_spectrum: 0.42987643950618804
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.2355662069749087
+  lightness: 0.602507506031543
+  saturation: 0.42549154441803694
+  rhythmicContrast: 0.171123206615448
+purpose: []
